@@ -1,0 +1,12 @@
+langchain-community
+azure-ai-inference
+langchain
+chromadb
+sentence-transformers
+pandas
+python-dotenv
+langchain-huggingface
+langchain-chroma
+pypdf
+torch
+streamlit
