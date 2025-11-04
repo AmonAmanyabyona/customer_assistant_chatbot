@@ -18,4 +18,16 @@ This project uses the following packages:
 langchain, langchain-community, langchain-huggingface, langchain-chroma,chromadb, sentence-transformers, torch,azure-ai-inference, pypdf, pandas, python-dotenv and streamlit for the user interface
 
 # For Demo, look at chat_demo.pdf
-To help you visualize how the assistant works, I've included a sample interaction in chat_demo.pdf. It shows a typical conversation between a user and the assistant, demonstrating how queries are answered based on document context.
+To help you visualize how the assistant works, I've included a sample interaction in chat_demo.pdf. It shows a typical conversation between a user and the assistant, demonstrating how queries are answered based on document 
+
+# Getting Started
+Follow these steps to set up and run the project locally:
+1.Clone the repository:
+2.Create a .env file in the root directory and add your GitHub token:
+3.Install dependencies using: pip install -r requirements.txt
+4.Launch the assistant using the provided script: python launch_client_assistant.py
+
+
+
+
+context.
