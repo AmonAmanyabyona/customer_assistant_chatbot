@@ -18,7 +18,7 @@ This project uses the following packages:
 langchain, langchain-community, langchain-huggingface, langchain-chroma,chromadb, sentence-transformers, torch,azure-ai-inference, pypdf, pandas, python-dotenv and streamlit for the user interface
 
 # For Demo, look at chat_demo.pdf
-To help you visualize how the assistant works, I've included a sample interaction in chat_demo.pdf. It shows a typical conversation between a user and the assistant, demonstrating how queries are answered based on document 
+To help you visualize how the assistant works, I've included a sample interaction in chat_demo.pdf. It shows a typical conversation between a user and the assistant, demonstrating how queries are answered based on document context.
 
 # Getting Started
 Follow these steps to set up and run the project locally:
@@ -30,4 +30,4 @@ Follow these steps to set up and run the project locally:
 
 
 
-context.
+
