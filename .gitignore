@@ -1,0 +1,6 @@
+venv/
+1.project_steps.txt
+2.github_steps.txt
+.env
+customer_assistant_chatbot/uploaded_pdfs
+customer_assistant_chatbot/app_vectorstore_e52adf5e0997d2802179004c251de553
